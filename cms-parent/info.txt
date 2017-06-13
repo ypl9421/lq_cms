@@ -1,0 +1,17 @@
+项目技术介绍:
+	1.
+	2.
+	3.
+	4.
+	5.
+	6.
+	7.
+Maven 的分模块管理
+
+	basic-hibernate
+	cms-core
+	cms-user
+	cms-article
+	cms-system
+	cms-web
+	cms-parent
